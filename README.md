@@ -1,4 +1,4 @@
-# Object Detecting
+# Object Detecting and Object Tracking 
 
 A small computer-vision project for detecting and counting objects in video
 using Python, OpenCV, and Ultralytics YOLO. The scripts process video frames,
